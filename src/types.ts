@@ -70,15 +70,8 @@ export const initialFormData: FormData = {
 };
 
 export const FORMATION_OPTIONS = [
-  'Licence en Gestion',
-  'Licence en Marketing Digital',
-  'Licence en Informatique',
-  'Master en Management',
-  'Master en Finance',
-  'Master en Data Science',
-  'MBA',
-  'Formation Continue',
-  'Formation Courte',
+  'Licence Pro CSPS',
+  'Licence Pro LOGDOS',
 ] as const;
 
 export const MODE_FORMATION_OPTIONS = [
