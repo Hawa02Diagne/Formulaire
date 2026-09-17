@@ -11,7 +11,7 @@ function App() {
             <GraduationCap className="w-6 h-6 text-white" />
           </div>
           <div>
-            <h1 className="text-lg font-bold leading-tight">SBS School</h1>
+            <h1 className="text-lg font-bold leading-tight">Sport Business School (SBS)</h1>
             <p className="text-xs text-navy-200">Formulaire d'inscription en ligne</p>
           </div>
         </div>
